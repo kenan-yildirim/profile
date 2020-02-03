@@ -1291,7 +1291,7 @@ input[type="text"] {
 }
 
 .certificate {
-  text-align: center;
+  text-align: center !important;
 }
 
 /*# sourceMappingURL=style.css.map */
